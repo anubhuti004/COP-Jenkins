@@ -23,4 +23,8 @@ public class JenkinsOneTests {
         System.out.println("Running jenkins pipeline example 3");
 
     }
+    
+    @Test
+    public void fourthTest(){
+        System.out.println("Running jenkins pipeline example 4");
 }
