@@ -26,5 +26,5 @@ public class JenkinsOneTests {
     
     @Test
     public void fourthTest(){
-        System.out.println("Running jenkins pipeline example 4 ok ok ");
+        System.out.println("Running jenkins pipeline example 4 ok ok ok");
 }
